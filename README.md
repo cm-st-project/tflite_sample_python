@@ -1,6 +1,3 @@
-The provided Python script involves loading a TensorFlow Lite (TFLite) model, using it to process images, and producing outputs based on this model. Below is a draft of a README file for this script:
-
----
 
 # TensorFlow Lite Image Classifier
 
